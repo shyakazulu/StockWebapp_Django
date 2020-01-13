@@ -1,3 +1,5 @@
+# Copyright (c) 2020-2021 Erick Shyaka All Rights Reserved
+
 from django.shortcuts import render, redirect
 from .models import dbstock
 from .forms import QuoteForm
